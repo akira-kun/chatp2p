@@ -1,5 +1,6 @@
 This is a Prototype
 
+No encryption yet
 
 change url location hash to enter a new chatroom
 
